@@ -60,3 +60,5 @@ NANO =
     ======================================
     > The user files are stored in    ====  /etc/passwd
     > The user passwords are stored in ===  /etc/shadow
+
+    
